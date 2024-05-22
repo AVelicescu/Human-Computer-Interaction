@@ -1,0 +1,3 @@
+WEB: https://www.figma.com/design/a8wbWSCZXAM52iXSpKnfqm/HCI-Project?node-id=0-1&t=V0YG2IVAPmsu8Ll7-0
+
+MOBILE: https://www.figma.com/design/glK6LHABM1lj58oZ15wWSd/Mobile-Travel-App?node-id=4-4&t=rzYsdhy3nGS8LaWa-0
