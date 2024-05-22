@@ -1,0 +1,39 @@
+Color Palette
+  Primary Colors:
+    White: #FFFFFF
+    Black: #000000
+  Grey Shades:
+    Dark Grey: #333333
+    Light Grey: #838383
+  Accent Color:
+    Blue: #5893D8
+Usage:
+  Background: White (#FFFFFF) for clean and simple interfaces.
+  Text: Black (#000000) for primary text, Dark Grey (#333333) for secondary text, and Light Grey (#838383) for placeholder and commented text.
+  Buttons: Blue (#5893D8) for primary action buttons to draw attention.
+  Icons: Typically in Black (#000000) or Dark Grey (#333333) to ensure visibility and contrast.
+  Comments: Light Grey (#838383) to distinguish from primary content without distracting.
+  Avatars: Use a vibrant and diverse color palette to reflect the diversity of user profile photos.
+
+
+Fonts
+  Primary Font: The default font provided by Figma, ensuring readability and consistency across the app.
+
+Typography:
+  Headers: Bold and larger in size for clear hierarchy.
+  Body Text: Regular weight for readability.
+  Captions and Labels: Smaller size and lighter weight to distinguish from main content.
+
+Icon Style
+  Shape: All icons are rounded to match the friendly and approachable design language.
+  Color: Icons generally use Black (#000000) or Dark Grey (#333333) for standard actions. 		  Icons within buttons or highlighted areas use colors for contrast.
+  Size: Consistent size across the app for uniformity and ease of use.
+
+Buttons
+  Primary Buttons: Blue (#5893D8) with White (#FFFFFF) text to stand out.
+  Secondary Buttons: Light Grey (#838383) with Black (#000000) text for less prominent actions.
+  Disabled Buttons: Used empty filling to indicate non-interactivity.
+
+Avatars
+  Style: Avatars are colorful and diverse to simulate a variety of user profile photos.
+  Shape: Round to match the overall rounded icon style and to give a friendly, approachable feel.
